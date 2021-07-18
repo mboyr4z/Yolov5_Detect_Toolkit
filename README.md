@@ -25,6 +25,8 @@ Sağında bulununan Başla butonuna tıklayın
   <img src="https://user-images.githubusercontent.com/82450697/126066371-830735d6-2a49-46e9-883f-714d8280a4ac.png"  title="hover text">
 </p>
 
-
+Ayrıca Video Butonuna tıklayarak ilgili videoyu seçebilir ve ardından tespit işlemine başlayabilirsiniz.
+Tespit bittikten sonra sağ tarafta ekrana videoyu basacaktır. Eğer video size hızlı ya da yavaş gelirse kod içinde cv2.waitKey() ayarlarıyla oynayıp
+hızı azaltıp çoğaltabilirsiniz. Video ve tespit ettiğiniz fotoğraflar çıktı olarak "Runs" klasöründe olacaktır.
  
  
