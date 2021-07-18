@@ -11,12 +11,12 @@
  2. Kullanacağınız tespit yöntemini Seçiniz <hr>
 (Fotoğraf)
 <p align="center">
-  <img src=""  title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/126066304-7fe0f1af-97e2-4262-a05f-563cd2a312ba.png"  title="hover text">
 </p>
 Sağında bulununan Başla butonuna tıklayın
 
 <p align="center">
-  <img src=""  title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/126066312-58f56404-df3f-4351-b92a-cb1ad03a9efc.png"  title="hover text">
 </p>
 
 <hr>
