@@ -16,7 +16,7 @@
 Sağında bulununan Başla butonuna tıklayın
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/126066312-58f56404-df3f-4351-b92a-cb1ad03a9efc.png"  title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/126066350-f3d9cb32-248a-4738-bf2c-6464d7d37c28.png"  title="hover text">
 </p>
 
 <hr>
